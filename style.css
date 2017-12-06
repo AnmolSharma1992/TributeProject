@@ -1,0 +1,28 @@
+h1 {
+  font-size: 50px;
+  color: white;
+}
+
+h3 {
+  color: white;
+  font-size: 20px;
+  margin:-15px;
+  font-family: San-serif;}
+
+.elon-musk{
+  width: 1100px;
+  padding: 30px;}
+
+.white-text{
+  color:white
+}
+
+body {
+  background-image:url("https://space-facts.com/wp-content/uploads/magellanic-clouds.png");
+  border-style: solid;
+  border-color: red;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-left:60px;
+  margin-right:60px;
+}
